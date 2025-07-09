@@ -2,13 +2,13 @@
 using namespace std;
 int main(){
         int n;
-        cout<<"enter number";
+        cout<<"enter a number";
         cin>>n;
         if(n>0){
-                cout<<"psotive";
+                cout<<"post";
+
         }
         else{
-                cout<<"negative";
+                cout<<"neg";
         }
-        
 }
