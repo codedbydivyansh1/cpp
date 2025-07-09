@@ -8,6 +8,9 @@ int main(){
                 cout<<"post";
 
         }
+        else if(n==0){
+                cout<<"0";
+        }
         else{
                 cout<<"neg";
         }
